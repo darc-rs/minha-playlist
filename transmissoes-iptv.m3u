@@ -1,0 +1,121 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id=”” tvg-name="BAND" tvg-logo=”” group-title=”CANAIS • ABERTOS” , BAND
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id=”” tvg-name="SBT" tvg-logo=”https://images.app.goo.gl/txD2uB6Hmm9dnNyr8” group-title=”CANAIS • ABERTOS” , SBT
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id=”” tvg-name="RECORD TV" tvg-logo=”https://images.app.goo.gl/p4QELvzophWriNBS7” group-title=”CANAIS • ABERTOS” , RECORD TV
+https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w2056720955.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name="TV CULTURA" tvg-logo=”https://images.app.goo.gl/KjLBtoc9bym1tDYR8” group-title=”CANAIS • ABERTOS” ,  TV CULTURA
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8
+
+
+#EXTINF:-1 tvg-id=”” tvg-name="REDE TV" tvg-logo=”https://images.app.goo.gl/Gx76P9bNL9E9QoZu7” GROUP-TITLE=”CANAIS • ABERTOS” , REDE TV
+https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w158083161.m3u8
+
+
+#EXTINF:-1 TVG-ID=”” tvg-name="CANAL FUTURA" TVG-LOGO=”https://images.app.goo.gl/65ox5jRqFTZy4UFg8” GROUP-TITLE=”CANAIS • ABERTOS” , CANAL FUTURA
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
+
+
+#EXTINF:-1 TVG-ID=”” tvg-name="TV REDE GGOSPEL" TVG-LOGO=”https://images.app.goo.gl/m886z3Vd2ppcptcL7” GROUP-TITLE=”CANAIS • ABERTOS” , TV REDE GOSPEL
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+
+#EXTINF:-1 TVG-ID=”” tvg-name="TV BRASIL" TVG-LOGO=”https://images.app.goo.gl/rxRPFaNeACFwRfuNA” GROUP-TITLE=”CANAIS • ABERTOS” , TV BRASIL
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+
+#EXTINF:-1 TVG-ID=”” tvg-name="REDE VIVA" TVG-LOGO=”https://images.app.goo.gl/vReUFby9XeBt4aqS7” GROUP-TITLE=”CANAIS • ABERTOS” , REDE VIVA
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
+
+
+#EXTINF:-1 TVG-ID=”” tvg-name="ANIME TV" TVG-LOGO=”https://images.app.goo.gl/dCZG7NQ2XfTbFq619” GROUP-TITLE=”CANAIS • ABERTOS” , ANIME TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+
+#EXTINF:-1 TVG-ID=”” tvg-name="RETROÔ CARTOON" TVG-LOGO=”https://images.app.goo.gl/Ptyjsvxsr593LVwo6” GROUP-TITLE=”CANAIS • ABERTOS” , RETRÔ CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+
+#EXTINF:-1 TVG-ID=”” tvg-name="CANAL 29" TVG-LOGO=”https://images.app.goo.gl/ffcnikjywEiNEPqX9” GROUP-TITLE=”CANAIS • ABERTOS” , CANAL 29
+https://stmv1.srvif.com/canal29/canal29/chunklist_w2125553746.m3u8
+
+
+#EXTINF:-1 TVG-ID=”” tvg-name="TV SÉRIES" TVG-LOGO=”https://images.app.goo.gl/HhD3UdJ7g9bsMeYU6” GROUP-TITLE=”CANAIS • ABERTOS” , TV SÉRIES
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+
+#EXTINF:-1 TVG-ID=”” tvg-name="ISTV" TVG-LOGO=”https://www.cxtv.com.br/img/Tvs/Logo/webp-l/956249947191e0e94a5a4768b952d303.webp” GROUP-TITLE=”CANAIS • ABERTOS” ,  ISTV
+https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w1854609608.m3u8
+
+
+#EXTINF:-1 TVG-ID=”” tvg-name="REDE CNT" TVG-LOGO=”https://images.app.goo.gl/NWC4z4vVX6ZLeHg18” GROUP-TITLE=”CANAIS • ABERTOS” , REDE CNT
+https://hqf6tcxuhk.singularcdn.net.br/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTc0MTU1Mzg4NCwiaWF0IjoxNzQwOTQ5MDg0LCJpZCI6IjAxOTU1OGE2LWQyN2QtNzQzZC05NjQ1LWYyNWIxNzE3NTA5MiIsImlpcCI6ZmFsc2UsIm5iZiI6MTc0MDk0NzI4NCwidWlkIjoiMDE5NTU4YTYtZDI3ZC03NDNkLTk2NDUtZjI1YjE3MTc1MDkyIiwidXJpX3N1YiI6Ii8yYjUxMjY2Mi1hNDBmLTQ2ZWYtYjU0MC1lOGVlM2Y1YmIxZmIvIn0.WJZTxTXEFFF0Kfep2jvduyprgK4fU_lEImZEdy1lFs8&uid=019558a6-d27d-743d-9645-f25b17175092&magica=sim
+
+
+#EXTINF:-1 TVG-ID=”” tvg-name="RECORD NEWS" TVG-LOGO=”https://images.app.goo.gl/rHjoe6bdhLgJFkj97” GROUP-TITLE=”CANAIS • ABERTOS” , RECORD NEWS
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+
+#EXTINF:-1 TVG-ID=”” tvg-name="TV NOVO TEMPO" TVG-LOGO=”https://images.app.goo.gl/jSeqA9giB6vtbhEt9” GROUP-TITLE=”CANAIS • ABERTOS” , TV NOVO TEMPO
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist_slpor-480p.m3u8
+
+
+#EXTINF:-1 TVG-ID=”” tvg-name="REDE MINAS" TVG-LOGO=” https://images.app.goo.gl/Wpe9NMAhxz7Amb4U8” GROUP-TITLE=”CANAIS • ABERTOS” , REDE MINAS
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist.m3u8
+
+
+#EXTINF:-1 TVG-ID=”” tvg-name="TV PAI ETERNO" TVG-LOGO=”https://images.app.goo.gl/KJ8tU7BpSSZnSoKo9” GROUP-TITLE=”CANAIS • ABERTOS" , TV PAI ETERNO
+https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO HD" tvg-logo="" group-title="" , GLOBO HD
+http://supersonictv.live:8080/live/Michelle123/Michelle123/85018.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD" tvg-logo="" group-title="CANAIS DE ESPORTES" , PREMIERE CLUBES HD
+https://cr7v.short.gy/M/Clube/Index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV tvg-logo="" group-title="" , SPORTV
+https://new.m3u8.one/sportv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="" group-title="" , CNN BRASIL
+https://video03.logicahost.com.br/cnnmoney/cnnmoney/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="" , ESPN
+https://lvstr.cfd/espn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="" group-title="" , TNT SPORTS
+https://lvstr.cfd/tnt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA" tvg-logo="" group-title"", TV GAZETA
+https://live-b.cf.dmcdn.net/sec2(3L3wfRSZb6y5fz2xxQWfKENlvjbKZEvZ474D9GNWQRDvk4MASobS2phyi9IjwCgK-QkPwJeV42RkMGdozsTu5PybWNdp35-RrwkH5U2QqnS0qnKOgEVAoL5cTjrrk1uX)/dm/3/x8ttlxm/s/live-720.m3u8#cell=lcfb
+
+#EXTINF:-1 tvg-id="" tvg-name="TV CÂMERA" tvg-logo="" group-title="", TV CÂMERA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="" group-title="", CANAL RURAL
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w1079175493_b159600_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GARAGEM TV" tvg-logo="" group-title="", GARAGEM TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1, CANAL FILMES
+https://stream.ads.ottera.tv/cl/250303cv312m2svuauuen54kjg/1280x720_3329040_0_f.m3u8?i=728_6178
+
+#EXTINF:-1, REDE BRASIL
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1086033911.m3u8
+
+#EXTINF:-1, ABN KIDS
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/chunklist_w1775883435_b1928000_slen.m3u8?nimblesessionid=168567782
+
+#EXTINF:-1 tvg-id="" tvg-name="MASTERCHEF BRASIL" tvg-logo="" group-title="", MASTERCHEF BRASIL
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65722042b10e9d22a882bde2/variant.m3u8?x-plex-token=-UP3BZtyzHGy97cU3VVV&x-plex-advertising-identifier=&x-plex-client-identifier=a29fea21-6f91-4645-9a46-e3bb51ed5656&x-plex-playback-id=p_33889050-015d-4168-a00a-853d524b5ef0&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Android&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Mobile+Chrome&x-plex-platform-version=133.0.6943.121&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1741047483&url=bc3935fbd1350513ad6967bf3e1e1c63-00f6ece4e6ce0363013cbe09f8b1263ad9880cde7ea007e65cf19f7e20a660d216a2821f64bb3673a83d69ef2a26d9074ea3c4227fdb9a8b7828f3cb2debb1c5085eec7dcbc85f3cbed422cb1dd92c95340aed299bb293d95ba89f7035a87bff16dcd0673e0ddbeac2d88ef05f117cff059d74e11f6ccbb012b995279317c4691738c1fe80e1a2458382c71827a399b7e8dcc2b1c7ba6107ee8d466345e36eb0eaa127962f01829e9e40a72b37f60f89450fd438cb1527498eda63c9d3fcf9943d487a351aa9f7d3a361a332230407e6d1ea2ef8b67daeea259dfc97b72fb70917c79c930c8f86e54fa0b7cb9818f130ff3562e8e597c400f4934251102455860868b5475ef7c8b6e39535c23f7f8230bc13106671a1d121e815d225fd9ada88e220e65e41df338eeb8dd2914f0267720959de764d84b0227d627bb55ac833e3ff2deea47946f0fee64774175583a5c09936ba6caa313287cf9accb46974bf9e4ad37a819cf39d819d565c7b317861f971a0f48b50e2ae3a4617cedc7604c0c47dd67c7f4c413d9265b992392ee3e59d383fa19ee849f40b9f451759417b3a33f5599a39d719d75cb058358a9dd6edb7db68541740fffbba136b735204043b993896615aed16b1a2f90c4ab9c65533af49a4ff9078842adb008bf73157beba0de73254c7a9bb07c51a618cef4927593db694312a9d86af62bd17cb875aacbb000e34dc2470a579d547339aa9a88c7e59f5747f196d8211d3b88c7d6265a8750c9ff5116d9098e8d098688f96f9da956f55ee66fa61c448aa7ab0bbcd64d16e3dbd7b5dbfeb462f7d13c709741df1036595b08656f4db1c413f6a6c4db053b3f4f10bf783fc1ac2730f90d72724b9a676a8cc8c82c86f6589cc3b9547d702294d0cc49d6ac40420970d566fea13bf9b4e2d7e3729fb98ef4b8f9c955741f004767c242380b0a69ed7ad1ff61cbcc88363cbfe13e30327a4205e25f1388d07ec57d289a50d264adeded9f2572aa82e702946c813d7982c6d59203739038ac3d75ee3fb536eabd51eff0145a1104b81a751267ddc3e932062d0bed373d63fcabbdd524caa77e3bbcff8b13fb8ec4598013d80b5dd88df1d1df51122c04e5173aad34404276663eb3bc39c5f6e79f2005d4982437771ec1382b2c3ad4b6a7c43da1a0b729eae7fce4c858616bab775553d05818578d0ca40483106405c7ffb66787855251ec163b31584593254f55f99183098f3329dfd9439ea5bd7e495b52cab19b5d49d7ce2217ae5fa80ce4eb1e1c5fd6579a391e41a201dee35a92db6e7de9a30f009fe0b21ff5d7b7ee53032afe5290a57de0f39bced5095e4e004792f2191956da6131f03d5ce73ade59545c06c331ff5c14d6a7d5968b672239bb64af3eca93d2cb1d5c152d70d3fb49f2dd397c0e154328d8ec02d78c5d64754d7df1c2071e03f2df9f1a3903f5380ffa72f65648b9256316113df10cdee263a0fe5316aafff52d082467c89a2daf002194fbcd4fd82bd8d2665ea2c7620752025d807866c6bb2dc0c357bee7c2a0aabe4c8b244847318776e840bd01b8c55e2253665d78ef28e44e853889396af5d18aa33c21f2257b2d79dc07b56c537e4f0fead6dee39a8af4c421200a4474143d330ad0148a3402dae8a87a911b896adb6252fe498dc04f11a5085c50ba168e4eda801882409c79c3ce0463a5d043975deaba5ae52aada7c2e1e33a415c3fbf5b30488fd493d6497aacd0c1007f88c5a33c9859356e4dd392f245a1b32bc0606da393e7f85d5131b57741163c794f79b583456c46311ee6f5a9cae5cdb8c397d12c16361c83aecf8c80383109de713b15857697104653d1ebe7c3b17f8854d0c6f860176e5b29e21d96a810eebba1fff6f001acb6861bba7eca948efbb48af3e6de8b8e84126b55a6b4edf0d675aa9cef043f97cbe17f17dcaad6065b51775599e19e8cf21c0ed93da321d238bb945997198cee485f53f2495e5c01d78a6dbe3d3ccebffacb943495e31be437acfb2e73e03a513852ad98ed946069e23a2e7649e3a036882f5711461eb20326d4dd34b6ffe96a7a9e2a557b3183f53e40d4710379708ef090ac38861b6602cb0e323e3db936fb73e853ed7911c54aa100d4400a46afc609793c65ef88eb1eda5cabe589942248438bf4a1ec3b21fb8aa18aa74980bf78dee9eedfacdfc08cc96962f10e1dfb7a49b056ef03955320a920cf1cd889555623323141fbd4bfe5de7af544cc1efd9f132f13433795c82f62419b466d4a8999ddb11a467069eaf4dfdd9867cccca3026917b1ee98a4f6d6c59d215e61729e6bdfa5bf104421e7eaf4c05d8d912b132f036e05f89462a580184cf5cc880e382ff2cb99b0f82c7bb7e0f442ce07c76b332382bea4c1e2cdadecda470c2e565714226166effb46c79594ceb8c803bf0eda6b5749a108ae7f7c810ff00642e219eae6496c3d5e615002f9c9ae849d6b95e7615b03635739273673fdb4e3477c8875b4d33c4e04a82584c2ef0cc6a806f04da27919e5c9de362b8c68055aa4a873159fb5fba7a4c6a7e0b045bc076ee6f1fddcb099dcfec8ecd4ba344191f45ab6e10513b0739daba3893bfdf80a0f22b9621a3d44fe1b2d1caec44084bf607f39d79b5615b7286240544a1eb268ea70cf4bcdabaecce8e6d3e01d9c75c855517e5ffaf7302227996afd790e573520f709c1e942719bda27d2db12f801beb15b150517c1b6d13affb23f032aad4cebd2fce3f2aea85454f2bcf08ac4a6b94bac43b4922a7bd4998c7acc2f79ecf649cd6dff600bd95cf4a941a514045f9942621402ba377930fd28902c1f1b50dcd9406474f5866123be0f3e835316d11753fb60655755130dc2500738f617d850e1cbd3b145768892e1929a0291dee4828d967ebce223f817de1f08724300c927ccc8ff828df961c97bef9bb40b0be49198a27076ec863a21cdffd146ba3e4223ff0337f898f1d7534f3a47d4d4258335b4de942f21d6d32cfecd2550287afa58c94716f1c63f1023a25b0959072f68392d851d95752cc020c68ef0747f7d00e45c9857f74863259db8fb9a2e94fed95a61bcb82f040ad3707199d0ab550bd499420920c5964a9ab36b02ddd48178b88330544fdd20dfd18fb9693a31f5591885c1ace70c2418f1e73c1dde108d176323e0b372a4e1ad31afbc973a2b2be9dd3609417d56957cab3fac25b3d8b573fe95515f8700cfa49d3cf5ce611cf0e755d3d14583168fc33019c9129ea137d40807c084d055596b3b19843c57eadf9d83c205647ead5772065b51d5dfe1d90a31a5c21d2428ae58a6b90c2ee21624aa123202bf6339d23
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE FAROESTE" tvg-logo="" group-title="", CINE FAROESTE
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-63489bc190b96ef5e0eb327c/variant.m3u8?x-plex-token=Ra-T-Cyaq9AVswZZsxFP&x-plex-advertising-identifier=&x-plex-client-identifier=a29fea21-6f91-4645-9a46-e3bb51ed5656&x-plex-playback-id=p_e29613d8-f021-44a1-8730-168f21aef15c&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Android&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Mobile+Chrome&x-plex-platform-version=133.0.6943.121&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1741047993&url=3b2fd3017e6074121faa43e91e5592f7-a6e78341f68617f4501572612339d6d37e556710db72f72da41222a7fdbf48c7b5c757d11ccc158cd28c100366417fec952c7e5a31622f66bcd759c3b0a90172d87cab159407632cf2eba8bd00a99fb4198b86bff55d06d52a6df8a2e0c7192c4b99e0f009bd259bfc7abd03caedfed670a5229d05bb1e17951502ca4686dc4f4d416830bbccbc2a3a3be2aaa17a3a0d4a84acb1ac6dab23851c9a097ea7d2481ce9561b5edfeed9c38b158a14201f375619f2034ce6ab401e98285c499cdbfa763e1ea60597403d19d6deb57e2ef22c
