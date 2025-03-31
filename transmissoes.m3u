@@ -78,10 +78,10 @@ https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO HD" tvg-logo="" group-title="" , GLOBO HD
 http://supersonictv.live:8080/live/Michelle123/Michelle123/85018.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD" tvg-logo="" group-title="CANAIS DE ESPORTES" , PREMIERE CLUBES HD
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD" tvg-logo="" group-title="CANAIS DE ESPORTES", PREMIERE CLUBES HD
 https://cr7v.short.gy/M/Clube/Index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV tvg-logo="" group-title="" , SPORTV
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV tvg-logo="" group-title="CANAIS DE ESPORTES" , SPORTV
 https://new.m3u8.one/sportv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="" group-title="" , CNN BRASIL
