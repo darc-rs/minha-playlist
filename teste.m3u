@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Séries" tvg-logo="https://imgur.com/a/zzmyICE", Blue Lock - Episódio 01
+#EXTINF:-1 tvg-id="BlueLock01" tvg-name="Blue Lock" group-title="Séries" tvg-logo="https://imgur.com/a/zzmyICE" season="1" episode="1", Blue Lock - Episódio 01
 https://drive.google.com/uc?export=download&id=1i7kuPP7JKYVv2wANAVnUlcGVs2palGsm
